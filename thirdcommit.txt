@@ -1,1 +1,13 @@
 text for third commit
+
+
+
+Let's go crazy and do yet another commit/ modification. You know what, I'll even do this one in vim.
+
+
+$vim thirdcommit.txt
+$git add *
+$git commit --m "yet another commit"
+$git push
+
+end.
